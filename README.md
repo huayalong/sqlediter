@@ -1,0 +1,2 @@
+# sqlediter
+sqlediter是基于zTree和Monaco Editor设计的一个SQL在线编辑器，支持关键字提示、表名称和字段等信息提示，目前只是一个框架demo，没有依赖vue。
